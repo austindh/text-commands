@@ -1,6 +1,6 @@
 {
   "name": "text-commands",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "text commands for my home automation setup",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

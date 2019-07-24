@@ -44,5 +44,6 @@ export declare enum commands {
     livingRoomOff = "livingRoomOff",
     plantOn = "plantOn",
     plantOff = "plantOff",
-    gitPull = "gitPull"
+    gitPull = "gitPull",
+    newBundle = "newBundle"
 }
