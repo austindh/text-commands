@@ -1,0 +1,25 @@
+{
+  "name": "text-commands",
+  "version": "1.0.0",
+  "description": "text commands for my home automation setup",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austindh/text-commands.git"
+  },
+  "author": "Austin Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austindh/text-commands/issues"
+  },
+  "homepage": "https://github.com/austindh/text-commands#readme",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "files": ["lib/**/*"]
+}
