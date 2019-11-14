@@ -1,6 +1,7 @@
 export declare enum commands {
     movieLightsEnd = "movieLightsEnd",
     movieLights = "movieLights",
+    movieLightsMed = "movieLightsMed",
     defaultBrightness = "defaultBrightness",
     setDefaultColor = "setDefaultColor",
     defaultColor = "defaultColor",

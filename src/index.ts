@@ -1,6 +1,7 @@
 export enum commands {
-	movieLightsEnd = 'movieLightsEnd',
-	movieLights = 'movieLights',
+	movieLightsEnd = 'movieLightsEnd', // bedroom movie high
+	movieLights = 'movieLights', // bedroom movie low
+	movieLightsMed = 'movieLightsMed', // bedroom movie medium
 	defaultBrightness = 'defaultBrightness',
 	setDefaultColor = 'setDefaultColor', // same as below
 	defaultColor = 'defaultColor',
