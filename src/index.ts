@@ -46,5 +46,6 @@ export enum commands {
 	plantOn = 'plantOn',
 	plantOff = 'plantOff',
 	gitPull = 'gitPull',
-	newBundle = 'newBundle'
+	newBundle = 'newBundle',
+	restart = 'restart'
 };
